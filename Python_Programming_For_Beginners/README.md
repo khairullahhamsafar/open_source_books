@@ -42,7 +42,14 @@ By Mastery, White Belt
 > <h3>Table of Content</h3>
 > 
 
-
+### [Chapter 1: Introduction to Python](#text00002.html#1)
+- [1.1. What is python?](#text00002.html#1.1)
+  - [1.1.1. Why we need it?](#text00002.html#1.1.1)
+    - [1.1.1.1. Software](#text00002.html#1.1.1.1)
+  - [1.2. Beginning with Python programming](#text00002.html#1.2)
+    - [1.2.1. Complier](#text00002.html#1.2.1)
+    - [1.2.2. Interpreter](#text00002.html#1.2.2)
+    - [1.2.3. Python reserved words](#text00002.html#1.2.3)
 
 
 ### [Chapter 2 : Print](#text00002.html#2)
