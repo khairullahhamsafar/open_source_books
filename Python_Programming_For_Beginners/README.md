@@ -222,6 +222,16 @@ By Mastery, White Belt
 - [14.7. Overloading Operators](#text00014.html#14.7)
 
 
+### [Chapter 15: Data Files](#text00015.html#15)
+- [15.1. Reading and Writing in an external file from Python code](#text00015.html#15.1)
+  - [15.1.1. Writing to a text file](#text00015.html#15.1.1)
+  - [15.1.2. Reading from the text file](#text00015.html#15.1.2)
+  - [15.1.3. Writing in append mode](#text00015.html#15.1.3)
+  - [15.1.4. w+ mode](#text00015.html#15.1.4)
+  - [15.1.5. r+ mode](#text00015.html#15.1.5)
+  - [15.1.6. a+ mode](#text00015.html#15.1.6)
+
+
 
 
 <br/>
