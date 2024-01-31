@@ -245,6 +245,12 @@ By Mastery, White Belt
 - [16.6. Built-in Function](#text00015.html#16.6)
 
 
+### [Chapter 17: CSV Files](#text00016.html#17)
+- [17.1. Reading the CSV files](#text00016.html#17.1)
+  - [17.1.1. Picking information out of them](#text00016.html#17.1.1)
+- [17.2. Writing in the CSV files](#text00016.html#17.2)
+
+
 
 
 <br/>
