@@ -232,6 +232,19 @@ By Mastery, White Belt
   - [15.1.6. a+ mode](#text00015.html#15.1.6)
 
 
+### [Chapter 16: Modules](#text00015.html#16)
+- [16.1. Functions in a module](#text00015.html#16.1)
+  - [16.1.1. Creating a module](#text00015.html#16.1.1)
+  - [16.1.2. Use a module](#text00015.html#16.1.2)
+- [16.2.1. Creating a module containing a dictionary](#text00015.html#16.2.1)
+- [16.3. Classes in a module](#text00015.html#16.3)
+  - [16.3.1. Creating a module](#text00015.html#16.3.1)
+  - [16.3.2. Use a module](#text00015.html#16.3.2)
+- [16.4. Import from the Module](#text00015.html#16.4)
+- [16.5. Built-in Modules](#text00015.html#16.5)
+- [16.6. Built-in Function](#text00015.html#16.6)
+
+
 
 
 <br/>
