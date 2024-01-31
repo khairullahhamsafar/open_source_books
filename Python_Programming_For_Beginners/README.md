@@ -222,49 +222,7 @@ By Mastery, White Belt
 - [14.7. Overloading Operators](#text00014.html#14.7)
 
 
-### [Chapter 15: Data Files](#text00015.html#15)
-- [15.1. Reading and Writing in an external file from Python code](#text00015.html#15.1)
-  - [15.1.1. Writing to a text file](#text00015.html#15.1.1)
-  - [15.1.2. Reading from the text file](#text00015.html#15.1.2)
-  - [15.1.3. Writing in append mode](#text00015.html#15.1.3)
-  - [15.1.4. w+ mode](#text00015.html#15.1.4)
-  - [15.1.5. r+ mode](#text00015.html#15.1.5)
-  - [15.1.6. a+ mode](#text00015.html#15.1.6)
 
-
-### [Chapter 16: Modules](#text00015.html#16)
-- [16.1. Functions in a module](#text00015.html#16.1)
-  - [16.1.1. Creating a module](#text00015.html#16.1.1)
-  - [16.1.2. Use a module](#text00015.html#16.1.2)
-- [16.2.1. Creating a module containing a dictionary](#text00015.html#16.2.1)
-- [16.3. Classes in a module](#text00015.html#16.3)
-  - [16.3.1. Creating a module](#text00015.html#16.3.1)
-  - [16.3.2. Use a module](#text00015.html#16.3.2)
-- [16.4. Import from the Module](#text00015.html#16.4)
-- [16.5. Built-in Modules](#text00015.html#16.5)
-- [16.6. Built-in Function](#text00015.html#16.6)
-
-
-### [Chapter 17: CSV Files](#text00016.html#17)
-- [17.1. Reading the CSV files](#text00016.html#17.1)
-  - [17.1.1. Picking information out of them](#text00016.html#17.1.1)
-- [17.2. Writing in the CSV files](#text00016.html#17.2)
-
-
-### [Chapter 18: JSON files](#text00017.html#18)
-- [18.1. Working with JSON](#text00017.html#18.1)
-  - [18.1.1. List to JSON file](#text00017.html#18.1.1)
-  - [18.1.3. Accessing the information from JSON files](#text00017.html#18.1.3)
-
-
-### [Chapter 19: Exception](#text00018.html#19)
-- [19.1. Handling errors](#text00018.html#19.1)
-  - [19.1.1. Try block](#text00018.html#19.1.1)
-  - [19.1.2. Except block](#text00018.html#19.1.2)
-  - [19.1.3. Else Block](#text00018.html#19.1.3)
-  - [19.1.4. Finally Block](#text00018.html#19.1.4)
-- [19.2. Loop through JSON](#text00018.html#19.2)
-- [19.3. Raise](#text00018.html#19.3)
 
 <br/>
 <br/>
