@@ -251,6 +251,12 @@ By Mastery, White Belt
 - [17.2. Writing in the CSV files](#text00016.html#17.2)
 
 
+### [Chapter 18: JSON files](#text00017.html#18)
+- [18.1. Working with JSON](#text00017.html#18.1)
+  - [18.1.1. List to JSON file](#text00017.html#18.1.1)
+  - [18.1.3. Accessing the information from JSON files](#text00017.html#18.1.3)
+
+
 
 
 <br/>
