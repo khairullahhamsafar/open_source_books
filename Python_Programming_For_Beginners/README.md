@@ -257,7 +257,14 @@ By Mastery, White Belt
   - [18.1.3. Accessing the information from JSON files](#text00017.html#18.1.3)
 
 
-
+### [Chapter 19: Exception](#text00018.html#19)
+- [19.1. Handling errors](#text00018.html#19.1)
+  - [19.1.1. Try block](#text00018.html#19.1.1)
+  - [19.1.2. Except block](#text00018.html#19.1.2)
+  - [19.1.3. Else Block](#text00018.html#19.1.3)
+  - [19.1.4. Finally Block](#text00018.html#19.1.4)
+- [19.2. Loop through JSON](#text00018.html#19.2)
+- [19.3. Raise](#text00018.html#19.3)
 
 <br/>
 <br/>
